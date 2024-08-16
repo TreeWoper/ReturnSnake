@@ -1,0 +1,12 @@
+*This is a game based on the classic snake game,
+the main goal is basically the same as the original
+but with a need to return to the origin.
+
+*Be aware that the settings menu does NOT work because
+I got too lazy at the end and ran out of time
+
+*Controles: basic arrow keys, space bar to selecte from
+the menu or use mouse.
+
+*Finaly, I hope that you have fun playing this game, 
+I made everything my self not including the music.
